@@ -1,6 +1,5 @@
 package com.creatio.crm.framework.base;
 
-import java.io.File;
 import java.util.Properties;
 
 import org.openqa.selenium.OutputType;

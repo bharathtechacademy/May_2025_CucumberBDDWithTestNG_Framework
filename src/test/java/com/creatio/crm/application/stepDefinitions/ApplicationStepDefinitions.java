@@ -3,8 +3,6 @@ package com.creatio.crm.application.stepDefinitions;
 import java.util.List;
 
 import org.openqa.selenium.WebDriver;
-import org.testng.annotations.BeforeMethod;
-
 import com.creatio.crm.application.steps.CookiesPageSteps;
 import com.creatio.crm.application.steps.HomePageSteps;
 import com.creatio.crm.application.steps.LoginPageSteps;

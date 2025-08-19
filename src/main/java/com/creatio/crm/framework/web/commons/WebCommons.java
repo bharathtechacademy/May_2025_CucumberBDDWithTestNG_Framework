@@ -194,7 +194,7 @@ public class WebCommons {
 	}
 	
 	// generate unique id
-	public String uniqueId(String format) {
+	public static String uniqueId(String format) {
 		SimpleDateFormat sdf = new SimpleDateFormat(format);
 		String uniqueId = sdf.format(Calendar.getInstance().getTime());
 		return uniqueId;
